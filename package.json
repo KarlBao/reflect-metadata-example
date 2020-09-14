@@ -1,0 +1,19 @@
+{
+  "name": "reflect-metadata-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "ts-node example.ts"
+  },
+  "author": "LancerComet, Karl",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.10.1",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^9.0.0"
+  }
+}

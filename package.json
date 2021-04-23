@@ -9,11 +9,14 @@
   "author": "LancerComet, Karl",
   "license": "ISC",
   "dependencies": {
+    "mockjs": "^1.1.0",
     "typescript": "^4.0.2"
   },
   "devDependencies": {
     "@types/node": "^14.10.1",
+    "axios": "^0.21.1",
     "reflect-metadata": "^0.1.13",
-    "ts-node": "^9.0.0"
+    "ts-node": "^9.0.0",
+    "vue-property-decorator": "^9.1.2"
   }
 }

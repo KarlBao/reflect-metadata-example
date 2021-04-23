@@ -1,17 +1,93 @@
 {
-  "id": 1,
-  "name": "BLG",
-  "team_members": [
-    {
-      "id": 101,
-      "name": "ADD"
-    },
-    {
-      "username": "Meteor"
-    },
-    {
-      "id": 102,
-      "name": []
-    }
-  ]
+  "code": 200,
+  "msg": null,
+  "data": {
+    "name": "BOMSUND 伯森德",
+    "code": "10336163",
+    "localCode": "10336163",
+    "globalCode": "30336162",
+    "description": "",
+    "color": "",
+    "unit": "CNY",
+    "recommend": [],
+    "imgUrl": "http://collage-img.oss-cn-shanghai.aliyuncs.com/planList/39839775a7c64166a5066d39985bbdd0.jpg?Expires=2241250473&OSSAccessKeyId=LTAI4GHn9F2u4nQ2XDjSvQcb&Signature=egHabKm13cxVS%2BZqTVmeraGBt0s%3D",
+    "imgUrlList": ["http://collage-img.oss-cn-shanghai.aliyuncs.com/planList/39839775a7c64166a5066d39985bbdd0.jpg?Expires=2241250473&OSSAccessKeyId=LTAI4GHn9F2u4nQ2XDjSvQcb&Signature=egHabKm13cxVS%2BZqTVmeraGBt0s%3D"],
+    "specifications": "长度:201 厘米,宽度:71 厘米,厚度:12 厘米",
+    "price": 350.00,
+    "type": "ART",
+    "typeName": "床垫",
+    "hfbCode": "01",
+    "paCode": "0111",
+    "paName": null,
+    "hfbName": null,
+    "topViewLength": null,
+    "topViewWidth": null,
+    "topViewUrl": null,
+    "dsType": "sync",
+    "randomId": 161899560681568574,
+    "thumbnail": "http://collage-img.oss-cn-shanghai.aliyuncs.com/planList/bc5f854a4e534105a0f8a93a1d89a7d8.jpg?Expires=2241250437&OSSAccessKeyId=LTAI4GHn9F2u4nQ2XDjSvQcb&Signature=9aQyeRYZ7aDnGqAccfOErvCqWwQ%3D",
+    "showItemNo": null,
+    "imgUrlS2": "http://collage-img.oss-cn-shanghai.aliyuncs.com/planList/bc5f854a4e534105a0f8a93a1d89a7d8.jpg?Expires=2241250437&OSSAccessKeyId=LTAI4GHn9F2u4nQ2XDjSvQcb&Signature=9aQyeRYZ7aDnGqAccfOErvCqWwQ%3D",
+    "removeWhiteImage": null,
+    "removeWhiteImageWidth": null,
+    "removeWhiteImageHeight": null,
+    "productColourList": null,
+    "genericCode": null,
+    "size": "71x201 厘米",
+    "recommendStatus": null,
+    "category": null,
+    "stock": -1,
+    "careInstructions": [{
+      "careInHeaderNo": "00087",
+      "careInHeaderText": "床垫套",
+      "careInText": "不能水洗",
+      "sortNo": 1
+    }, {
+      "careInHeaderNo": "00087",
+      "careInHeaderText": "床垫套",
+      "careInText": "勿漂白",
+      "sortNo": 2
+    }, {
+      "careInHeaderNo": "00087",
+      "careInHeaderText": "床垫套",
+      "careInText": "勿滚筒烘干",
+      "sortNo": 3
+    }, {
+      "careInHeaderNo": "00087",
+      "careInHeaderText": "床垫套",
+      "careInText": "勿熨烫",
+      "sortNo": 4
+    }, {
+      "careInHeaderNo": "00087",
+      "careInHeaderText": "床垫套",
+      "careInText": "勿干洗",
+      "sortNo": 5
+    }, {
+      "careInHeaderNo": "00087",
+      "careInHeaderText": "床垫套",
+      "careInText": "吸尘清洁。",
+      "sortNo": 6
+    }],
+    "materials": [{
+      "materialText": "聚氨酯泡沫30公斤/立方米",
+      "materialTextPart": "床垫:",
+      "productTypeText": "",
+      "sortNo": 1
+    }, {
+      "materialText": "填料：聚酯纤维",
+      "materialTextPart": "填料:",
+      "productTypeText": "",
+      "sortNo": 2
+    }, {
+      "materialText": "无纺聚丙烯纤维",
+      "materialTextPart": "外层面料:",
+      "productTypeText": "",
+      "sortNo": 3
+    }],
+    "kjlCode": null,
+    "mainPicture": null,
+    "productSizePicture": null,
+    "inspirationPicture": null,
+    "frontView": null
+  }
 }
